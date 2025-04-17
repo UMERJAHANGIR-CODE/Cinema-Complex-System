@@ -15,7 +15,6 @@
     <li>Ticketing System</li>
     <li>Reservation Handling</li>
     <li>Employee Records</li>
-    <li>Admin Login System</li>
     <li>File Handling for Data Storage</li>
   </ul>
 
@@ -47,7 +46,6 @@ CinemaComplexSystem/
   <p>This project can be compiled and run in <strong>any standard C++ compiler or debugger</strong>, including:</p>
   <ul>
     <li>Dev C++ (Windows)</li>
-    <li>Code::Blocks</li>
     <li>Visual Studio</li>
     <li>g++ (Linux/macOS/WSL)</li>
     <li>Online IDEs (Replit, OnlineGDB, etc.)</li>
