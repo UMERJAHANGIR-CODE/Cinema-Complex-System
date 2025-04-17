@@ -1,10 +1,5 @@
-# Cinema-Complex-System
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Cinema Complex System</title>
-  <meta charset="UTF-8">
-</head>
 <body>
 
   <h1>Cinema Complex System</h1>
@@ -44,8 +39,8 @@ CinemaComplexSystem/
 │   ├── UML.pdf
 │   ├── SRS.pdf
 │   └── case.pdf
-├── README.html
-└── .gitignore
+└──  .gitignore
+
   </pre>
 
   <h2>How to Compile and Run</h2>
