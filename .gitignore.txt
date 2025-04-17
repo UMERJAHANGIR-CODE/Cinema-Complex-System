@@ -1,0 +1,26 @@
+#  Build artifacts
+*.exe
+*.out
+*.o
+*.gch
+*.obj
+
+#  IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.opensdf
+*.sdf
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+#  Misc
+*.bak
+*.tmp
